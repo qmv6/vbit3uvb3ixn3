@@ -1,0 +1,53 @@
+{
+  "token": "MTQxMDcyMDgyMjUzMTg1NDQzOA.G4l_q0.s1MhsdRykBxLQ1MYYllMmwgST6_DkFnMZz5K7k",
+  "prefix": "",
+  "embedColor": "#3498db",
+  "embedImage": "https://i.postimg.cc/bvkQGDym/Prayertimeimg.png",
+  "countries": {
+    "Egypt": {"lat": 30.0444, "lon": 31.2357, "timezone": "Africa/Cairo", "method": 5},
+    "Saudi Arabia": {"lat": 21.4225, "lon": 39.8262, "timezone": "Asia/Riyadh", "method": 4},
+    "Qatar": {"lat": 25.276987, "lon": 51.520008, "timezone": "Asia/Qatar", "method": 3},
+    "Kuwait": {"lat": 29.3759, "lon": 47.9774, "timezone": "Asia/Kuwait", "method": 1},
+    "Bahrain": {"lat": 26.2235, "lon": 50.5876, "timezone": "Asia/Bahrain", "method": 3},
+    "United Arab Emirates": {"lat": 24.4539, "lon": 54.3773, "timezone": "Asia/Dubai", "method": 3},
+    "Oman": {"lat": 23.5880, "lon": 58.3829, "timezone": "Asia/Muscat", "method": 3},
+    "Yemen": {"lat": 15.3694, "lon": 44.1910, "timezone": "Asia/Aden", "method": 3},
+    "Iraq": {"lat": 33.3152, "lon": 44.3661, "timezone": "Asia/Baghdad", "method": 3},
+    "Syria": {"lat": 33.5138, "lon": 36.2765, "timezone": "Asia/Damascus", "method": 3},
+    "Lebanon": {"lat": 33.8938, "lon": 35.5018, "timezone": "Asia/Beirut", "method": 3},
+    "Jordan": {"lat": 31.9497, "lon": 35.9323, "timezone": "Asia/Amman", "method": 3},
+    "Palestine": {"lat": 31.7683, "lon": 35.2137, "timezone": "Asia/Gaza", "method": 3},
+    "Sudan": {"lat": 15.5007, "lon": 32.5599, "timezone": "Africa/Khartoum", "method": 3},
+    "Morocco": {"lat": 34.0209, "lon": -6.8416, "timezone": "Africa/Casablanca", "method": 3},
+    "Algeria": {"lat": 36.7538, "lon": 3.0588, "timezone": "Africa/Algiers", "method": 3},
+    "Tunisia": {"lat": 36.8065, "lon": 10.1815, "timezone": "Africa/Tunis", "method": 3},
+    "Libya": {"lat": 32.8872, "lon": 13.1913, "timezone": "Africa/Tripoli", "method": 3},
+    "Mauritania": {"lat": 18.0735, "lon": -15.9582, "timezone": "Africa/Nouakchott", "method": 3},
+    "Somalia": {"lat": 2.0469, "lon": 45.3182, "timezone": "Africa/Mogadishu", "method": 3},
+    "Pakistan": {"lat": 33.6844, "lon": 73.0479, "timezone": "Asia/Karachi", "method": 1},
+    "Afghanistan": {"lat": 34.5553, "lon": 69.2075, "timezone": "Asia/Kabul", "method": 1},
+    "Turkey": {"lat": 41.0082, "lon": 28.9784, "timezone": "Europe/Istanbul", "method": 13},
+    "Germany": {"lat": 52.5200, "lon": 13.4050, "timezone": "Europe/Berlin", "method": 4}
+  },
+  "prayerNames": {
+    "Fajr": "صلاة الفجر",
+    "Dhuhr": "صلاة الظهر",
+    "Asr": "صلاة العصر",
+    "Maghrib": "صلاة المغرب",
+    "Isha": "صلاة العشاء"
+  },
+  "ticketCategories": {
+    "techSupport": "1409112128971079740",
+    "complaintOnMember": "1409112128971079740",
+    "complaintOnAdmin": "1409124006954668053",
+    "girlsVerification": "1454073861229383755"
+  },
+  "mentionRoles": {
+    "techSupport": "1408880241098756146",
+    "complaintOnMember": "1408880241098756146",
+    "complaintOnAdmin": "1408948477198602250",
+    "girlsVerification": "1437008852020367393"
+  },
+  "logChannel": "1409112454767841390",
+  "cooldownMinutes": 10
+}

@@ -1,0 +1,346 @@
+[
+  {
+    "action": "add",
+    "moderator": "1239519557329223773",
+    "target": "1406740879120531548",
+    "warningLevel": 1,
+    "reason": "تلميح سب",
+    "timestamp": "2025-09-04T13:39:28.556Z"
+  },
+  {
+    "action": "remove",
+    "moderator": "1086728403660582932",
+    "target": "1389002369005654098",
+    "warningLevel": 4,
+    "reason": "",
+    "timestamp": "2025-09-08T14:51:26.627Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1348347342218068042",
+    "target": "1389002369005654098",
+    "warningLevel": 4,
+    "reason": "مادري",
+    "timestamp": "2025-09-08T14:52:03.606Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1400198699791024281",
+    "warningLevel": 1,
+    "reason": "كلام غير لائق في الشات",
+    "timestamp": "2025-09-12T14:45:10.578Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1389002369005654098",
+    "warningLevel": 1,
+    "reason": "تجربة",
+    "timestamp": "2025-09-12T16:52:40.439Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1389002369005654098",
+    "warningLevel": 2,
+    "reason": "تجربة",
+    "timestamp": "2025-09-12T17:17:02.708Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1398573488918499342",
+    "warningLevel": 1,
+    "reason": "التحدث في السياسة",
+    "timestamp": "2025-09-12T19:47:38.869Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1085904705743507518",
+    "warningLevel": 1,
+    "reason": "التحدث في السياسة",
+    "timestamp": "2025-09-12T19:48:22.902Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1239519557329223773",
+    "target": "1406740879120531548",
+    "warningLevel": 2,
+    "reason": "سب في الخاص",
+    "timestamp": "2025-09-14T18:43:56.056Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1239519557329223773",
+    "target": "974929174588440657",
+    "warningLevel": 1,
+    "reason": "سب",
+    "timestamp": "2025-09-16T15:44:09.682Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1239519557329223773",
+    "target": "1378111935249121492",
+    "warningLevel": 1,
+    "reason": "شب",
+    "timestamp": "2025-09-20T17:15:17.522Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1239519557329223773",
+    "target": "1378111935249121492",
+    "warningLevel": 2,
+    "reason": "سب",
+    "timestamp": "2025-09-20T17:17:14.891Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1239519557329223773",
+    "target": "1393373762447081533",
+    "warningLevel": 1,
+    "reason": "مخالفة اخر قانون",
+    "timestamp": "2025-09-20T17:20:05.607Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1239519557329223773",
+    "target": "1240480137603055619",
+    "warningLevel": 1,
+    "reason": "مخالفة اخر قانون",
+    "timestamp": "2025-09-20T17:20:18.158Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1239519557329223773",
+    "target": "1406740879120531548",
+    "warningLevel": 2,
+    "reason": "مخالفة اخر قانون",
+    "timestamp": "2025-09-20T17:20:26.388Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1348729989897388082",
+    "warningLevel": 1,
+    "reason": "سب",
+    "timestamp": "2025-10-03T10:04:02.374Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1348697894919606333",
+    "target": "1406740879120531548",
+    "warningLevel": 3,
+    "reason": "استهبال بالأسئلة",
+    "timestamp": "2025-10-03T10:46:00.556Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1397721540136538253",
+    "warningLevel": 1,
+    "reason": "ذكر اسم سيرفر",
+    "timestamp": "2025-10-03T13:19:50.413Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1398573488918499342",
+    "warningLevel": 1,
+    "reason": "ذكر اسم سيرفر",
+    "timestamp": "2025-10-03T13:23:51.998Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1018143220393324625",
+    "target": "1397721540136538253",
+    "warningLevel": 2,
+    "reason": "ذكر اسم سيرفر اخر",
+    "timestamp": "2025-10-03T13:55:27.084Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1194453203606044803",
+    "target": "1322212480411373651",
+    "warningLevel": 1,
+    "reason": "لقد ذكر اسماء لسيرفرات اخرى",
+    "timestamp": "2025-10-04T09:20:28.498Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1397721540136538253",
+    "warningLevel": 1,
+    "reason": "ذكر اسم سيرفر",
+    "timestamp": "2025-10-04T16:03:36.391Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1389002369005654098",
+    "warningLevel": 1,
+    "reason": ".",
+    "timestamp": "2025-10-04T16:51:42.415Z"
+  },
+  {
+    "action": "remove",
+    "moderator": "1086728403660582932",
+    "target": "1389002369005654098",
+    "warningLevel": 1,
+    "reason": "",
+    "timestamp": "2025-10-04T16:52:23.277Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1406740879120531548",
+    "warningLevel": 1,
+    "reason": "ذكر اسم سيرفر",
+    "timestamp": "2025-10-04T17:39:11.642Z"
+  },
+  {
+    "action": "remove",
+    "moderator": "1086728403660582932",
+    "target": "1240480137603055619",
+    "warningLevel": 1,
+    "reason": "",
+    "timestamp": "2025-10-16T16:41:35.375Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1229492141550735452",
+    "warningLevel": 1,
+    "reason": "ذكر اسم سيرفر",
+    "timestamp": "2025-10-22T12:35:18.997Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1398573488918499342",
+    "target": "1267124334032584845",
+    "warningLevel": 1,
+    "reason": "ذكر اسم سيرفر",
+    "timestamp": "2025-10-23T14:25:15.567Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1427597714815975577",
+    "target": "1406740879120531548",
+    "warningLevel": 2,
+    "reason": "استهبال بالتذاكر",
+    "timestamp": "2025-10-25T15:28:03.497Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1427597714815975577",
+    "target": "1325532082998345769",
+    "warningLevel": 1,
+    "reason": "شتم عضو",
+    "timestamp": "2025-10-27T14:39:34.943Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1427597714815975577",
+    "target": "1406740879120531548",
+    "warningLevel": 3,
+    "reason": "ذكر اسم سيرفرات",
+    "timestamp": "2025-10-27T15:54:32.575Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1096860456121024523",
+    "target": "956993768106643516",
+    "warningLevel": 1,
+    "reason": "سبام كثيف",
+    "timestamp": "2025-10-30T15:44:24.579Z"
+  },
+  {
+    "action": "remove",
+    "moderator": "1304071352667340882",
+    "target": "1406740879120531548",
+    "warningLevel": 2,
+    "reason": "",
+    "timestamp": "2025-11-04T15:40:02.700Z"
+  },
+  {
+    "action": "remove",
+    "moderator": "1304071352667340882",
+    "target": "1406740879120531548",
+    "warningLevel": 1,
+    "reason": "",
+    "timestamp": "2025-11-04T15:40:26.280Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1236265180665741392",
+    "warningLevel": 1,
+    "reason": "سب",
+    "timestamp": "2025-11-08T20:08:49.877Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1296501145740771348",
+    "warningLevel": 1,
+    "reason": "سب",
+    "timestamp": "2025-11-08T20:09:03.387Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1406740879120531548",
+    "warningLevel": 1,
+    "reason": "سب",
+    "timestamp": "2025-11-09T14:53:43.380Z"
+  },
+  {
+    "action": "remove",
+    "moderator": "1086728403660582932",
+    "target": "1236265180665741392",
+    "warningLevel": 1,
+    "reason": "",
+    "timestamp": "2025-11-10T18:35:48.125Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1427597714815975577",
+    "target": "1406740879120531548",
+    "warningLevel": 2,
+    "reason": "ذكر اسماء سيرفرات",
+    "timestamp": "2025-11-26T15:47:40.620Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1437915371624599632",
+    "target": "1414146110884155544",
+    "warningLevel": 1,
+    "reason": "سب بالشات",
+    "timestamp": "2025-11-27T11:12:09.226Z"
+  },
+  {
+    "action": "remove",
+    "moderator": "1437915371624599632",
+    "target": "1414146110884155544",
+    "warningLevel": 1,
+    "reason": "",
+    "timestamp": "2025-11-27T12:36:34.412Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1304071352667340882",
+    "target": "1406740879120531548",
+    "warningLevel": 3,
+    "reason": "استهبال بالتكت",
+    "timestamp": "2025-12-08T17:08:36.670Z"
+  },
+  {
+    "action": "add",
+    "moderator": "1086728403660582932",
+    "target": "1406740879120531548",
+    "warningLevel": 4,
+    "reason": "كلمات تثير المشاكل + ( سبام )",
+    "timestamp": "2025-12-19T18:03:56.336Z"
+  }
+]
